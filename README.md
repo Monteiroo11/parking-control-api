@@ -90,13 +90,4 @@
 
 <hr>
 
-<h2>📚 Recursos adicionais</h2>
-<ul>
-  <li>Link para o projeto no GitHub: <a href="#">[Adicionar o link aqui]</a></li>
-  <li>Material de apoio:
-    <ul>
-      <li><a href="https://spring.io/projects/spring-boot">Documentação oficial do Spring Boot</a></li>
-      <li>Ferramentas úteis: <a href="https://www.postman.com/">Postman</a>, <a href="https://www.pgadmin.org/">PgAdmin</a></li>
-    </ul>
-  </li>
-</ul>
+
